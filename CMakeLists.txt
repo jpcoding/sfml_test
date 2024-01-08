@@ -13,5 +13,6 @@ project(SFML_TESTS
 find_package(SFML  COMPONENTS graphics audio REQUIRED)
 
 add_subdirectory(tests)
+add_subdirectory(hw1)
 
 
